@@ -25,9 +25,6 @@ from keras.layers import Dense, Activation, Flatten, Conv2D, MaxPooling2D, Dropo
 
 # DATA PREPROCESSING ------------------>
 
-
-
-
 DATA_FOLDER = 'dataset'
 TRAIN_FILE = os.path.join(DATA_FOLDER, 'data.txt')
 
