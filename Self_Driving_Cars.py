@@ -15,7 +15,7 @@ from keras.models import load_model
 from sklearn.model_selection import train_test_split
 from sklearn.utils import shuffle
 from keras.models import Sequential
-from keras.layers import Dense, Activation, Flatten, Conv2D, MaxPooling2D, Dropout
+from keras.layers import Dense, Flatten, Conv2D, MaxPooling2D, Dropout
 
 
 # DATA PREPROCESSING ------------------>
