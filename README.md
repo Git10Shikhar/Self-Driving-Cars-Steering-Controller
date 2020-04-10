@@ -1,5 +1,5 @@
 # Self-Driving-Cars
-Code for changing the steering angle in case of auto driving carS.
+Code for changing the steering angle in case of auto driving cars.
 
 
 
