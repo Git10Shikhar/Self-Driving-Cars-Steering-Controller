@@ -177,7 +177,7 @@ steer = cv2.imread('steering.jpg', 0)
 rows, cols = steer.shape
 smoothed_angle = 0
 
-vid = cv2.VideoCapture('run.mp4')
+vid = cv2.VideoCapture('video.mp4')
 while (vid.isOpened()):
     
     ret, frame = vid.read()
